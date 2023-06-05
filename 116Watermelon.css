@@ -1,0 +1,10 @@
+@font-face {
+    font-family: '116 Watermelon';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/116Watermelon/116Watermelon.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/116Watermelon/116Watermelon.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/116Watermelon/116Watermelon.otf') format('opentype'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/116Watermelon/116Watermelon.ttf') format('truetype');
+}
